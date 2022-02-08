@@ -1,4 +1,3 @@
-# -projet_tas_de_sable2
 #########################################
 # groupe MPCI 3
 # Toto LEHERO
